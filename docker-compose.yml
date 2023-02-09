@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testmvcappwithoutauth:
+    image: ${DOCKER_REGISTRY-}testmvcappwithoutauth
+    build:
+      context: .
+      dockerfile: ./Dockerfile

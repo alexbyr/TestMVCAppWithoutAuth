@@ -1,0 +1,11 @@
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/TestMVCAppWithoutAuth.deps.json
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/TestMVCAppWithoutAuth.runtimeconfig.json
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/appsettings.Development.json
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/appsettings.json
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/TestMVCAppWithoutAuth.staticwebassets.runtime.json
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/TestMVCAppWithoutAuth
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/TestMVCAppWithoutAuth.dll
+/Users/alby/Projects/TestMVCAppWithoutAuth/bin/Debug/TestMVCAppWithoutAuth.pdb
+/Users/alby/Projects/TestMVCAppWithoutAuth/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/alby/Projects/TestMVCAppWithoutAuth/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/alby/Projects/TestMVCAppWithoutAuth/obj/Debug/docker-compose.dcproj.CopyComplete

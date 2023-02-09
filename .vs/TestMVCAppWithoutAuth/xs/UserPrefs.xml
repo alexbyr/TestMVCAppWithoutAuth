@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AAA130AD-6721-4FDE-B7E7-BEB8A7A11440}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestMVCAppWithoutAuth PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.yml">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="2" />
+      <File FileName="Dockerfile" Line="23" Column="1" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestMVCAppWithoutAuth" expanded="True">
+            <Node name="docker-compose" expanded="True" selected="True" />
+            <Node name="TestMVCAppWithoutAuth" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
